@@ -27,7 +27,7 @@ It provides secure APIs and socket connections that connect seamlessly with the 
 
 - **Runtime:** Node.js  
 - **Framework:** Express.js  
-- **Database:** MySQL (Neon)  
+- **Database:** PostgreSQL (Neon)  
 - **Realtime:** Socket.io  
 - **Authentication:** JWT  
 - **Language:** JavaScript  
