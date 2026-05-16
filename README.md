@@ -138,8 +138,6 @@ backend/
 │
 ├── utils/
 │   ├── chatMemory.js
-│   ├── mailer.js
-│   └── otp.js
 │
 ├── server.js
 ├── package.json
